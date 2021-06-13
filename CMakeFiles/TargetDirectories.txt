@@ -1,0 +1,3 @@
+/home/benjaminm/gmtk2021/CMakeFiles/rebuild_cache.dir
+/home/benjaminm/gmtk2021/CMakeFiles/edit_cache.dir
+/home/benjaminm/gmtk2021/CMakeFiles/SDL2Test.dir
